@@ -1,0 +1,5 @@
+FrontEnd:
+
+- Erros de versões do CRA, não gera os arquivos:
+Remover versão antiga -> npm rm -g create-react-app
+Instalar com npx -> npx create-react-app frontend

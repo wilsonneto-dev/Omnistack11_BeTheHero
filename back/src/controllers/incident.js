@@ -50,9 +50,7 @@ const controller = {
     res.header('X-Per-Page', perPage);
     res.header('X-Total-Pages', Math.ceil(numCount / perPage));
 
-    res.json({
-      incidents
-    });
+    res.json(incidents);
   },
 
   create: async (req, res) => {

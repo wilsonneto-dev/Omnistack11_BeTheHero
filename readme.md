@@ -8,7 +8,7 @@ Projeto cria um sistema simplista porém que utiliza todas as funcionalidades ne
 
 Abaixo prints da aplicação rodando:
 
-<img src="/.github/mob-details.jpg" width="350"> <img src="/.github/mob-home.jpg" width="350">
+<img src="/.github/mob-details.jpg" width="250"> <img src="/.github/mob-home.jpg" width="250">
 
 ![](/.github/front-cases.png)
 ![](/.github/front-login.png)

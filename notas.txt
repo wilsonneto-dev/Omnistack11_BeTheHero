@@ -3,3 +3,16 @@ FrontEnd:
 - Erros de versões do CRA, não gera os arquivos:
 Remover versão antiga -> npm rm -g create-react-app
 Instalar com npx -> npx create-react-app frontend
+
+
+Unit Tests:
+- npm i jest
+- npx jest --init
+
+para testar -> npm run test
+
+instalar o cross-env -> npi i cross-env -D
+colocar o script test -> cross-env NODE_ENV=test jest
+
+instalar supertest para testes de integração
+-> npm install supertest -D
